@@ -21,3 +21,12 @@ flutter:
   assets:
     - images/
 
+  fonts:
+  - family: PermanentMarker
+    fonts:
+    - asset: fonts/PermanentMarker-Regular.ttf
+
+  - family: BebasNeue
+    fonts:
+    - asset: fonts/BebasNeue-Regular.ttf
+
